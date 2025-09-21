@@ -110,7 +110,7 @@ const LoginForm: React.FC = () => {
           {/* Footer */}
           <div className="mt-8 pt-6 border-t border-gray-100 text-center">
             <p className="text-xs text-gray-500">
-              Sistema de Ponto Eletrônico v1.0
+              Sistema de Ponto Eletrônico v2.0
             </p>
           </div>
         </div>
